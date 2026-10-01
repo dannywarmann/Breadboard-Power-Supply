@@ -1,4 +1,4 @@
 fp-info-cache
 *-backups/
-database/
+*database/
 .history/
